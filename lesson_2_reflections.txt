@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+GIT generates .git folder.  Prepares folder as a repository.
