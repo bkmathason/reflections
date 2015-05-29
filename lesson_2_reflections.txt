@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 GIT generates .git folder.  Prepares folder as a repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+temporarily stores the intended changes to the repository.  Useful for shapping
+current status into logical commits
