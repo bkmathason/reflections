@@ -17,3 +17,13 @@ Not sure yet
 How do the diagrams help you visualize the branch structure?
 
 Can see the parent and tree structure for the commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+combines changes, subject to failure
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Gits automatic merging is easier and potentially less prone to error, but it does assume that
+you want all user changes incorporated.  It will also identify conflicts for you.
+
